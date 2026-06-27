@@ -128,6 +128,9 @@ Ao executar as partidas com o **Clumsy** ativado, preste atenção no comportame
 [Clique aqui para assistir à demonstração do projeto](https://github.com/user-attachments/assets/361ad12f-4267-483a-aaec-725063e63df6)
 
 
+[Clique aqui para assistir à demonstração do projeto - Cenário UDP falho](https://github.com/user-attachments/assets/2e7820ae-c4af-4a07-9160-8e9890b4b184)
+
+
 
 ---
 
