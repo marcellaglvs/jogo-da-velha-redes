@@ -125,7 +125,9 @@ Ao executar as partidas com o **Clumsy** ativado, preste atenção no comportame
 
 ## 🎥 Demonstração em Vídeo
 
-[Clique aqui para assistir à demonstração do projeto](https://www.google.com/search?q=Aqui)
+[Clique aqui para assistir à demonstração do projeto](https://github.com/user-attachments/assets/361ad12f-4267-483a-aaec-725063e63df6)
+
+
 
 ---
 
