@@ -93,11 +93,13 @@ Para realizar as jogadas, digite no terminal ativo o número de **1 a 9** corres
  4 | 5 | 6 
 ---+---+---
  7 | 8 | 9 
-
 ```
 
-> 💡 **Nota:** *O servidor valida as jogadas em tempo real. Se você digitar uma posição já ocupada, caracteres de texto ou números fora do limite (1-9), o servidor enviará um alerta de comando inválido e solicitará um novo input, garantindo a estabilidade do sistema contra falhas de digitação.* ### 7. Finalização
-> Ao encerrar os testes e fechar as janelas do jogo, vá até a interface do **Clumsy** e clique em **Stop** para que a rede local do seu computador volte ao funcionamento normal.
+> 💡 **Nota:** *O servidor valida as jogadas em tempo real. Se você digitar uma posição já ocupada, caracteres de texto ou números fora do limite (1-9), o servidor enviará um alerta de comando inválido e solicitará um novo input, garantindo a estabilidade do sistema contra falhas de digitação.*
+
+### 7. Finalização
+
+Ao encerrar os testes e fechar as janelas do jogo, vá até a interface do **Clumsy** e clique em **Stop** para que a rede local do seu computador volte ao funcionamento normal.
 
 ---
 
