@@ -1,5 +1,6 @@
 import socket
 import sys
+import time
 
 # Configurações de rede
 HOST = '0.0.0.0'  # Escuta em todas as interfaces locais
@@ -36,6 +37,9 @@ def rodar_servidor_tcp():
     while True:
         atual_conn, simbolo, outro_conn = jogadores[turno % 2]
         estado = exibir_tabuleiro(tabuleiro)
+        
+        # time.sleep(0.5)
+
         atual_conn.sendall(f"VEZ:{estado}".encode())
         outro_conn.sendall(f"AGUARDE:{estado}".encode())
 
@@ -63,8 +67,10 @@ def rodar_servidor_tcp():
                     turno += 1
                 else:
                     atual_conn.sendall(b"INVALIDO:Posicao ocupada!")
+                    time.sleep(0.1)
             else:
                 atual_conn.sendall(b"INVALIDO:Escolha um numero de 1 a 9!")
+                time.sleep(0.1)
                 
         except Exception:
             print("Conexao perdida.")
