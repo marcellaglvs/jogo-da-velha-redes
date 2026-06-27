@@ -135,19 +135,13 @@ Ao executar as partidas com o **Clumsy** ativado, preste atenção no comportame
 
 Este projeto foi desenvolvido como parte da avaliação prática da disciplina de Redes de Computadores. Todos os integrantes do grupo participaram ativamente de todas as etapas de planejamento, modelagem e codificação do sistema. A divisão abaixo destaca o foco principal de liderança no desenvolvimento e a estratégia de contribuição e upload no GitHub:
 
-* **Marcella Martins Gonçalves**
+**Marcella Martins Gonçalves**
 * *Contribuição:* Desenvolvimento da lógica central do Jogo da Velha, tratamento de estados na camada de aplicação, arquitetura do socket do lado do servidor e implementação do arquivo `server.py`.
 
 
-* **José Mauro Pinto**
+**José Mauro Pinto**
 * *Contribuição:* Implementação da comunicação de rede (Sockets TCP e UDP), lógica de concorrência/turnos na camada de transporte, cálculo de latência (RTT) e implementação do arquivo `client.py`.
 
 
-* **Marcos Junior Rodrigues Marcena**
+**Marcos Junior Rodrigues Marcena**
 * *Contribuição:* Engenharia de testes e ajustes nos códigos do sistema, simulação e análise de perdas e atrasos de pacotes na rede através do Clumsy, validação experimental dos protocolos, desenvolvimento do arquivo de documentação técnica `README.md` e gravação do material em vídeo.
-
-
-
-```
-
-```
